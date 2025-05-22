@@ -77,8 +77,8 @@ export default function App() {
                     <Content id="content" style={{ width: "100%", height: "170vh" }}>
                         <div style={{padding:"10px", width:"100%", height:"170vh", backgroundColor:"rgba(255,255,255,0.87)"}}>
 
-                            <img src="src/assets/img.png" style={{position:"absolute", marginLeft:"5%", marginTop:"0%"}}></img>
-                            <img src="src/assets/img_1.png" style={{position:"absolute", marginLeft:"65%", marginTop:"1%", width:"30%", height:"60%"}}></img>
+                            <img src="../public/img.png" style={{position:"absolute", marginLeft:"5%", marginTop:"0%"}}></img>
+                            <img src="../public/img_1.png" style={{position:"absolute", marginLeft:"65%", marginTop:"1%", width:"30%", height:"60%"}}></img>
 
                             <h1 style={{position:"absolute", marginLeft:"40%", marginTop:"5%", fontSize:"90px", fontFamily:"Times New Roman"}}>Confianza</h1>
                             <h1 style={{position:"absolute", marginLeft:"40%", marginTop:"10%", fontSize:"90px", fontFamily:"Times New Roman"}}>y elegancia</h1>
@@ -105,13 +105,13 @@ export default function App() {
                                 </div>
 
                                 <div style={{ gridColumnStart: 1, gridColumnEnd: 4, gridRowStart: 3, gridRowEnd: 8, padding:"20px"}}>
-                                    <img src="src/assets/img_3.png" style={{width:"100%", height:"100%", borderRadius:"50px"}}></img>
+                                    <img src="../public/img_3.png" style={{width:"100%", height:"100%", borderRadius:"50px"}}></img>
 
                                 </div>
 
 
                                 <div style={{ gridColumnStart: 4, gridColumnEnd: 7, gridRowStart: 1, gridRowEnd: 5, padding:"20px"}}>
-                                    <img src="src/assets/img_4.png" style={{width:"100%", height:"100%", borderRadius:"50px"}}></img>
+                                    <img src="../public/img_4.png" style={{width:"100%", height:"100%", borderRadius:"50px"}}></img>
 
                                 </div>
 
@@ -206,7 +206,7 @@ export default function App() {
 
                         <div style={{marginTop:"0%",backgroundColor:"white", width:"100%", height:"80vh"}}>
 
-                            <img src="src/assets/img_8.png" style={{marginTop:"1%",width:"80%", height:"90%", borderRadius:"50px", borderBlockColor:"black", marginLeft:"10%"}}>
+                            <img src="../public/img_8.png" style={{marginTop:"1%",width:"80%", height:"90%", borderRadius:"50px", borderBlockColor:"black", marginLeft:"10%"}}>
                             </img>
 
                         </div>
